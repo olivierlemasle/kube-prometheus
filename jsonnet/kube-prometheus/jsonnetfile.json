@@ -24,11 +24,11 @@
             "name": "grafana",
             "source": {
                 "git": {
-                    "remote": "https://github.com/brancz/kubernetes-grafana",
+                    "remote": "https://github.com/olivierlemasle/kubernetes-grafana",
                     "subdir": "grafana"
                 }
             },
-            "version": "master"
+            "version": "notifiers"
         },
         {
             "name": "prometheus-operator",
